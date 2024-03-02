@@ -68,6 +68,8 @@ This will compile the app and install it on the connected device or emulator.
 - Streamline communication
 - Optimize workflows
 
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
@@ -75,3 +77,4 @@ Contributions are welcome! Please feel free to submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
